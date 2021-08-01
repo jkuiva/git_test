@@ -1,0 +1,1 @@
+This is jkuiva's first git project on theodinproject.com curriculum!
